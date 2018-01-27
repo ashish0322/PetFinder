@@ -1,6 +1,4 @@
-/**
- * Created by slagisetty on 6/21/2016.
- */
+
 module.exports = function() {
 
     var mongoose = require("mongoose");
